@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.links a.active {
+  background-color: #2394f7;
+  color: white;
+}
+body {
+  background-color: #e5e7eb45;
+}
